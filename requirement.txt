@@ -1,0 +1,7 @@
+google-api-python-client
+pandas
+numpy
+mysql-connector-python
+streamlit
+datetime
+python-dotenv 
